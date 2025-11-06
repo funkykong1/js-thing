@@ -19,7 +19,7 @@ for (let i = numerot.length-1; i >= 0; i--)
     lista.appendChild(li);
 }
 
-tekstiSivulle("tadaa !!!numeronne ovat :")
+tekstiSivulle("tadaa !!!!!numeronne ovat :")
 
 function tekstiSivulle(txt, luokka = "output1")
 {
