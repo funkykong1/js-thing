@@ -1,6 +1,6 @@
 'use strict';
 
-let nro1 = prompt("anna eka numero"), nro2= prompt("anna TOKA numero"), nro3= prompt("anna 3. numero");
+let nro1 = parseInt(prompt("anna eka numero")), nro2= parseInt(prompt("anna TOKA numero")), nro3= parseInt( prompt("anna 3. numero"));
 
 let sum = nro1+nro2+nro3;
 let prod = nro1*nro2*nro3;
