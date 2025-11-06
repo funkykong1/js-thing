@@ -24,6 +24,7 @@ for (let i = 0; i < 10000; i++)
 }
 
 lucky_rolls = lucky_rolls/10000
+lucky_rolls.toFixed(2)
 txt = `silmälukujen ${luku} suhde muihin heittoihin noppamäärällä ${nopat} on ${lucky_rolls*100}%`
 tekstiSivulle(txt)
 
