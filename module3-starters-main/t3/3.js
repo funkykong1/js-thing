@@ -5,7 +5,5 @@ let li;
 
 for (let i = 0; i < names.length; i++)
 {
-    li = document.createElement("li");
-    li.textContent = names[i];
-    target.appendChild(li)
+    target.innerHTML += `<li>${names[i]}</li>`
 }
