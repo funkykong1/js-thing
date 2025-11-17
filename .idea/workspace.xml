@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="mammutti" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;funkykong1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/funkykong1/js-thing.git&quot;,
+    &quot;accountId&quot;: &quot;7aeabb69-de38-494f-ad7e-fd8de846adea&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="351eC4CeZXpZb2GI5VRoerPJCAk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Material Theme Notifications&quot;: &quot;Material theme UI notifications&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-sdk.has.been.configured.as.the.project.interpreter&quot;: &quot;&quot;,
+    &quot;Notification.DoNotAsk-Material Theme Notifications&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-sdk.has.been.configured.as.the.project.interpreter&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vilho/PycharmProjects/js-thing/mod02&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht01ViisiNumeroa" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01\teht07nopat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht08Yhdistä" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht09Parilliset" />
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="js-thing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="" />
+      <created>1762281873890</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762281873890</updated>
+      <workItem from="1762281875118" duration="198000" />
+      <workItem from="1762282076889" duration="134000" />
+      <workItem from="1762282217889" duration="2761000" />
+      <workItem from="1762325745924" duration="4227000" />
+      <workItem from="1762444901681" duration="3598000" />
+      <workItem from="1762504711520" duration="11444000" />
+      <workItem from="1763287706005" duration="304000" />
+      <workItem from="1763307939283" duration="88000" />
+      <workItem from="1763368139099" duration="670000" />
+    </task>
+    <task id="LOCAL−00001" summary="push 2">
+      <option name="closed" value="true" />
+      <created>1762329818735</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1762329818735</updated>
+    </task>
+    <task id="LOCAL−00002" summary="tehtävä 2 :p">
+      <option name="closed" value="true" />
+      <created>1762445109514</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1762445109514</updated>
+    </task>
+    <task id="LOCAL−00003" summary="123">
+      <option name="closed" value="true" />
+      <created>1762445339602</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1762445339602</updated>
+    </task>
+    <task id="LOCAL−00004" summary="ei mitään nähtävää kaikki oli tehty ajallaan :-)">
+      <option name="closed" value="true" />
+      <created>1762446944096</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1762446944096</updated>
+    </task>
+    <task id="LOCAL−00005" summary="numerolista +_+">
+      <option name="closed" value="true" />
+      <created>1762447233397</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1762447233397</updated>
+    </task>
+    <task id="LOCAL−00006" summary="numerolista o_o">
+      <option name="closed" value="true" />
+      <created>1762447312352</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1762447312352</updated>
+    </task>
+    <task id="LOCAL−00007" summary="numerolista o_o">
+      <option name="closed" value="true" />
+      <created>1762447322982</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1762447322982</updated>
+    </task>
+    <task id="LOCAL−00008" summary="numerolista o_o">
+      <option name="closed" value="true" />
+      <created>1762447331225</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1762447331225</updated>
+    </task>
+    <task id="LOCAL−00009" summary="mammutti">
+      <option name="closed" value="true" />
+      <created>1762523509520</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1762523509520</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="push 2" />
+    <MESSAGE value="tehtävä 2 :p" />
+    <MESSAGE value="123" />
+    <MESSAGE value="ei mitään nähtävää kaikki oli tehty ajallaan :-)" />
+    <MESSAGE value="numerolista +_+" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;mod02/teht01ViisiNumeroa/nuuumeeeerooooot.js" />
+    <MESSAGE value="numerolista o_o" />
+    <MESSAGE value="mammutti" />
+    <option name="LAST_COMMIT_MESSAGE" value="mammutti" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/js_thing$main.coverage" NAME="main Coverage Results" MODIFIED="1762523478311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
