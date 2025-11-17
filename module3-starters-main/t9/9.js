@@ -1,3 +1,4 @@
+"use strict";
 // input kenttä
 const inp = document.getElementById("calculation")
 // lopputulos kenttä
@@ -7,53 +8,52 @@ const btn = document.getElementById("start")
 
 // ekat ja tokat numerot - teoriassa olisi myös mahdollista tehdä monikkoja loputtomasti
 let nums = [];
-let nums2 = [];
 
 // annettu operaattori
-let op = ""
+let ops = ["+", "-", "/", "*"]
 
-let first = true;
-
-
+let op;
 function calc()
 {
     // hankitaan sen dropdown jutun arvo
     let str = document.getElementById("calculation").value
 
-
-
-    for (let i = 0; i > str.length; i++)
+    for (let i = 0; i < ops.length; i++)
     {
-        let s = str.charAt(i)
-
-        if (s === typeof(Number))
-            nums.push(str.charAt(i))
-        else
+        nums = str.split(ops[i])
+        // löyty käytetty operaattori, poistutaan loopista
+        if(!isNaN(nums[1]))
         {
-            op = str.charAt(i)
+            op = ops[i]
+            break;
         }
+
     }
 
 
 
-    let num3 = 0;
+
+
+    let num3;
+    nums[0] = parseInt(nums[0])
+    nums[1] = parseInt(nums[1])
     // käydään kaikki vaihtoehdot läpi :-)
     switch (op)
     {
         case "+":
-            num3 = n1 + n2
+            num3 = nums[0] + nums[1]
             break
         case "-":
-            num3 = n1 - n2
+            num3 = nums[0] - nums[1]
             break
         case "*":
-            num3 = n1 * n2
+            num3 = nums[0] * nums[1]
             break
         case "/":
-            num3 = n1 / n2
+            num3 = nums[0] / nums[1]
             break
         default:
-            console.log("mitä")
+            num3 = `Annoit surkean operaation ${op} ei käy. Anna + tai - tai * tai /`
             break
 
     }
