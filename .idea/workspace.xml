@@ -4,13 +4,91 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="modulé 3">
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/module3-starters-main/t3/3.js" afterDir="false" />
+    <list default="true" id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="minimuutos">
+      <change afterPath="$PROJECT_DIR$/mod04/teht01TV-Maze/tv-looker-upper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/teht01TV-Maze/web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t10/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t10/10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t10/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t10/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t3/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t3/3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t4/4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t4/4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t6/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t6/6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t6/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t6/6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/img/picA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/img/picA.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/img/picB.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/img/picB.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t8/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t8/8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t8/8.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t8/8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t9/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t9/9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-starters-main/t9/9.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t9/9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,33 +113,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Notification.DisplayName-DoNotAsk-Material Theme Notifications": "Material theme UI notifications",
-    "Notification.DisplayName-DoNotAsk-sdk.has.been.configured.as.the.project.interpreter": "",
-    "Notification.DoNotAsk-Material Theme Notifications": "true",
-    "Notification.DoNotAsk-sdk.has.been.configured.as.the.project.interpreter": "true",
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Vilho/PycharmProjects/js-thing/module3-starters-main/t11",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-Material Theme Notifications&quot;: &quot;Material theme UI notifications&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-sdk.has.been.configured.as.the.project.interpreter&quot;: &quot;&quot;,
+    &quot;Notification.DoNotAsk-Material Theme Notifications&quot;: &quot;true&quot;,
+    &quot;Notification.DoNotAsk-sdk.has.been.configured.as.the.project.interpreter&quot;: &quot;true&quot;,
+    &quot;Python.icao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vilho/PycharmProjects/js-thing/mod04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod04" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\module3-starters-main\t11" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht01ViisiNumeroa" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01" />
-      <recent name="C:\Users\Vilho\PycharmProjects\js-thing" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht08Yhdistä" />
@@ -69,7 +148,30 @@
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.icao">
+    <configuration name="icao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="js-thing" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mod04/teht01TV-Maze" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mod04/teht01TV-Maze/icao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="js-thing" />
       <option name="ENV_FILES" value="" />
@@ -93,6 +195,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.icao" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -117,7 +224,14 @@
       <workItem from="1762504711520" duration="11444000" />
       <workItem from="1763287706005" duration="304000" />
       <workItem from="1763307939283" duration="88000" />
-      <workItem from="1763368139099" duration="8831000" />
+      <workItem from="1763368139099" duration="9179000" />
+      <workItem from="1763455885779" duration="2095000" />
+      <workItem from="1763469576706" duration="107000" />
+      <workItem from="1763470735355" duration="1354000" />
+      <workItem from="1763472401612" duration="15000" />
+      <workItem from="1763472421602" duration="44000" />
+      <workItem from="1763472473029" duration="2541000" />
+      <workItem from="1763913438460" duration="1029000" />
     </task>
     <task id="LOCAL−00001" summary="push 2">
       <option name="closed" value="true" />
@@ -196,7 +310,14 @@
       <option name="presentableId" value="LOCAL−00011" />
       <updated>1763387365416</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL−00012" summary="minimuutos">
+      <option name="closed" value="true" />
+      <created>1763387861206</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1763387861206</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,9 +357,11 @@
     <MESSAGE value="mammutti" />
     <MESSAGE value="p" />
     <MESSAGE value="modulé 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="modulé 3" />
+    <MESSAGE value="minimuutos" />
+    <option name="LAST_COMMIT_MESSAGE" value="minimuutos" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/js_thing$main.coverage" NAME="main Coverage Results" MODIFIED="1763373784975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_thing$main.coverage" NAME="main Coverage Results" MODIFIED="1763470819076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/js_thing$icao.coverage" NAME="icao Coverage Results" MODIFIED="1763472486554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mod04/teht01TV-Maze" />
   </component>
 </project>
