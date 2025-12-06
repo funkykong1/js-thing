@@ -145,6 +145,6 @@ for (let i = 0; i < picArray.length; i++)
 // When the user clicks on <span> (x), close the modal
 span.onclick = function() {
   modal.style.display = "none";
-  modal.style.zIndex = "9999";
+
   modal.style.scale = "1.03";
 }

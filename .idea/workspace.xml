@@ -5,78 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="minimuutos">
-      <change afterPath="$PROJECT_DIR$/mod04/teht01TV-Maze/tv-looker-upper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod04/teht01TV-Maze/web.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/web.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/tv-looker-upper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/web.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t1/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t1/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t10/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t10/10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t10/10.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t10/10.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/img/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/img/pic9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t11/thumbnails/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/thumbnails/pic9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t2/2.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t2/2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t3/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t3/3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t3/3.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t3/3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t4/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t4/4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t4/4.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t4/4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.css" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/5.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/5.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/img/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/img/pic9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t5/thumbnails/pic9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t5/thumbnails/pic9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t6/6.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t6/6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t6/6.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t6/6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/7.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/7.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/7.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/img/picA.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/img/picA.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t7/img/picB.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t7/img/picB.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t8/8.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t8/8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t8/8.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t8/8.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t9/9.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t9/9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/module3-starters-main/t9/9.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t9/9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod03/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +42,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="351eC4CeZXpZb2GI5VRoerPJCAk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -125,7 +61,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Vilho/PycharmProjects/js-thing/mod04&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/s2001085/PycharmProjects/js-thing/mod04&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -136,11 +72,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s2001085\PycharmProjects\js-thing\mod04" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod04" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\module3-starters-main\t11" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02" />
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht01ViisiNumeroa" />
-      <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod01" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vilho\PycharmProjects\js-thing\mod02\teht08Yhdistä" />
@@ -204,8 +140,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-PY-252.27397.106" />
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
       </set>
     </attachedChunks>
   </component>
@@ -232,6 +168,11 @@
       <workItem from="1763472421602" duration="44000" />
       <workItem from="1763472473029" duration="2541000" />
       <workItem from="1763913438460" duration="1029000" />
+      <workItem from="1764577120505" duration="53000" />
+      <workItem from="1764577401540" duration="114000" />
+      <workItem from="1764675595771" duration="55000" />
+      <workItem from="1764680076547" duration="909000" />
+      <workItem from="1765020114558" duration="450000" />
     </task>
     <task id="LOCAL−00001" summary="push 2">
       <option name="closed" value="true" />
