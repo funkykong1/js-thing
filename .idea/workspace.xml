@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f31132ee-3628-42c6-b5d5-3ebe96dd462c" name="Changes" comment="minimuutos">
-      <change afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/tv-looker-upper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/web.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mod03/t11/11.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod03/t11/11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht01TV-Maze/tv-looker-upper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht01TV-Maze/web.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht01TV-Maze/web.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/tv-looker-upper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/web.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht02TV-Maze-V2/web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/tv-looker-upper.js" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/tv-looker-upper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/web.html" beforeDir="false" afterPath="$PROJECT_DIR$/mod04/teht03TV-Maze-V3/web.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
